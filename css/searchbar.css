@@ -1,0 +1,36 @@
+
+
+.search-form {
+  border-radius: 30px 0 0 30px;
+}
+
+.input-group {
+  width:100%;
+}
+
+input-group-btn {
+  max-width:70px;
+}
+
+#search {
+  border: 1px;
+}
+
+.search-btn {
+  cursor:pointer;
+  border-radius: 0 30px 30px 0; 
+  background-color:#fff;
+  color:#669;
+  
+}
+
+.text-center {
+  color: #fff;
+}
+
+/* footer css */
+.foot{
+	text-align:center;
+  font-size: 9px;
+}
+
